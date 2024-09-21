@@ -1,0 +1,25 @@
+header {
+    background-color: #c59b7e;
+    color: rgb(11, 11, 11);
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 27px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
